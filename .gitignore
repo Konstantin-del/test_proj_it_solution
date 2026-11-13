@@ -38,6 +38,12 @@ lerna-debug.log*
 !.vscode/launch.json
 !.vscode/extensions.json
 
+# Local AI editor skills
+.agents/
+.claude/
+.windsurf/
+skills-lock.json
+
 # dotenv environment variable files
 .env
 .env.development.local
